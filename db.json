@@ -1,0 +1,25 @@
+{
+"products":
+[
+{"id":1,"name":"Radiated tortoise","kategori":"Pink"},
+{"id":2,"name":"Dik, kirk's dik","kategori":"Teal"},
+{"id":3,"name":"Lesser masked weaver","kategori":"Green"},
+{"id":4,"name":"Genoveva","kategori":"Pink"},
+{"id":5,"name":"Wallaby, dama","kategori":"Violet"},
+{"id":6,"name":"Great white pelican","kategori":"Blue"},
+{"id":7,"name":"Black rhinoceros","kategori":"Yellow"},
+{"id":8,"name":"Crab-eating fox","kategori":"Teal"},
+{"id":9,"name":"Legaan, ground","kategori":"Puce"},
+{"id":10,"name":"Cockatoo, red-breasted","kategori":"Fuscia"},
+{"id":11,"name":"Siskin, pine","kategori":"Khaki"},
+{"id":12,"name":"Lory, rainbow","kategori":"Mauv"},
+{"id":13,"name":"Black-capped capuchin","kategori":"Teal"},
+{"id":14,"name":"Falcon, prairie","kategori":"Mauv"},
+{"id":15,"name":"Cape raven","kategori":"Blue"},
+{"id":16,"name":"Tiger","kategori":"Turquoise"},
+{"id":17,"name":"Frilled lizard","kategori":"Teal"},
+{"id":18,"name":"Tortoise, burmese black mountain","kategori":"Puce"},
+{"id":19,"name":"Giant anteater","kategori":"Green"},
+{"id":20,"name":"Agile wallaby","kategori":"Maroon"}
+]
+}
